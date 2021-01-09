@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/vatsanaij/info/edit/main/R
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="./image/137220860_158708975720545_7082127799971808971_n.jpeg"> 
+<img src="./image/vsj2.jpeg"> 
 
 ### Markdown
 
