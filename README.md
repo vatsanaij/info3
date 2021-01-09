@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/vatsanaij/info/edit/main/R
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<tr>
+    <th>Planet Name</th>
+    <th>Planet Image</th>
+    <th>Planet Link</th>
+</tr>
 <img src="./image/vsj2.jpeg"> 
 
 ### Markdown
